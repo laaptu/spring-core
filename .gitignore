@@ -1,0 +1,11 @@
+classes/
+/build
+buildSrc/build
+/spring-*/build
+/src/asciidoc/build
+target/
+
+.DS_Store
+bin
+*.iml
+.idea/
